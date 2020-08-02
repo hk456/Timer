@@ -1,3 +1,3 @@
-# Demo 2
+# Timer Side-Project
 
-Some Text
+Making a Timer Side-Project 
